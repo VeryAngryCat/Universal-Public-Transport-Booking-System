@@ -44,13 +44,18 @@ We are a small software company proposing a universal public transport booking s
 
 ## Objective task deadlines
 Decide on tools and languages to be used for proj – 12 Oct
+
 Create requirement list – idk
+
 etc
 
 ## Main Deadlines
 Supervisor check-up – week 7 (to be booked)
+
 Group project stage 1 – 26/11/2026
+
 Group project expo – date TBC - GRID collab space (week 11)
+
 Group project stage 2 – 02/04/2027
 
 ## Links to documents + other important resources (e.g. figma page)
