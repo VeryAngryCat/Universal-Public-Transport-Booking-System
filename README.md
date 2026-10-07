@@ -59,4 +59,4 @@ Group project expo – date TBC - GRID collab space (week 11)
 Group project stage 2 – 02/04/2027
 
 ## Links to documents + other important resources (e.g. figma page)
-Main document – 
+Main document – [Project Documentation](https://docs.google.com/document/d/1T0kA24nfucGQf-VUrbNHkIHNyH4QxqXq794O2W_MClM/edit?usp=sharing)
