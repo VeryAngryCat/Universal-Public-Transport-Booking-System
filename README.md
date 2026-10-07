@@ -8,7 +8,7 @@ Mobility as a Service (MaaS) system with the integration of multiple transport m
 We are a small software company proposing a universal public transport booking system that allows users to search, compare, book and manage bus, train and taxi journeys through a single application. To demonstrate the idea, our team must develop a functioning end-to-end prototype using realistic, simulated data and clearly defined system boundaries.
 
 ## Stakeholders and Interactions
-| Stakeholder | Primary interest | Illustrative interaction |
+| Stakeholder | Primary interest | Interaction Spec |
 | :--- | :--- | :--- |
 | **Passenger** | Plan, book and manage journeys | Search routes, compare options, reserve a seat or taxi, pay through a payment service, and retrieve a digital ticket. |
 | **Transport operator** | Publish and manage services | Maintain routes, schedules, fares, capacity, vehicle or service status, and disruption information. |
@@ -34,12 +34,14 @@ We are a small software company proposing a universal public transport booking s
 ## Roles TBD
 | Role | Responsibility of | Progress |
 | :--- | :--- | :--- |
+| **Introduction section** | Not assigned | Not done |
 | **Listing requirements** | Not assigned | Not done |
+| **Risk analysis section** | Not assigned | Not done |
+| **Decisions and plan section** | Not assigned | Not done |
 | **UML diagrams** | Not assigned | Not done |
-| **Risk analysis** | Not assigned | Not done |
 | **Timeline+deadlines creation** | Not assigned | Not done |
 | **Costs calculation + market research** | Not assigned | Not done |
-| **UX creation** | Not assigned | Not done |
+| **UX/UI mockup creation** | Not assigned | Not done |
 | **Survey creation** | Not assigned | Not done |
 
 ## Objective task deadlines
